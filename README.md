@@ -1,4 +1,10 @@
-## Notes 
+## Title
+How type safe in angular's html? 
+
+## Cover photo
+Will angular point out simple typos?
+
+## Narration 
 
 * Setup angular: 
 
@@ -45,3 +51,4 @@ ng new angular
 > Ofcourse the situation will improve over time and I would imagine that the default configuraiton for angular would optimize for develop sanity however this is not true as of today, as shown by this quick experiment. 
 
 > As always have a great day and I would love to hear your thoughts on JSX vs. Angular's current HTML templating in the comments below. 
+
